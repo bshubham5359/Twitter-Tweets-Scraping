@@ -1,5 +1,6 @@
 # Twitter-Tweets-Scraping
-Twitter Tweets Scraping is the project based on scraping tweets from the username which you want to scrap.
+Twitter Tweets Scraping is the project based on scraping tweets from user whose tweet you want to scrap.
+It can scrap latest 200 tweets only.
 
 # Installation
 
